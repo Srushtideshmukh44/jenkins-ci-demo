@@ -1,6 +1,7 @@
 # jenkins-ci-demo
 🚀 Jenkins CI Pipeline with SonarQube, Docker & Email Notifications
-📌 ## Project Overview ##
+
+📌 # Project Overview 
 
 This project demonstrates a complete Continuous Integration (CI) pipeline implemented using Jenkins, SonarQube, and Docker on a local Windows machine.
 
