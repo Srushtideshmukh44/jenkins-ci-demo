@@ -65,12 +65,15 @@ SonarQube container:
 
 docker run -d --name sonarqube -p 9000:9000 sonarqube:lts
 
+
 📁 Repository Structure
 .
 ├── index.html        # Sample application file
 ├── Dockerfile        # Docker image definition
 ├── Jenkinsfile       # Jenkins CI pipeline
 └── README.md         # Documentation
+
+
 
 🔄 CI Pipeline Workflow
 GitHub
@@ -84,6 +87,8 @@ Quality Gate Check
 Docker Image Build
   ↓
 Email Notification
+
+
 
 🧱 Architecture Diagram
 +-------------+
@@ -110,6 +115,8 @@ Email Notification
 | Email Alert  |
 | (SMTP)       |
 +--------------+
+
+
 
 🔐 Jenkins Credentials Used
 
