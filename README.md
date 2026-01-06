@@ -44,7 +44,7 @@ Email Extension
 SonarQube container:
 # docker run -d --name sonarqube -p 9000:9000 sonarqube:lts
 
-#📁 Repository Structure
+# 📁 Repository Structure
 .
 ├── index.html        # Sample application file
 ├── Dockerfile        # Docker image definition
