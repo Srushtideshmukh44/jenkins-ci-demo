@@ -49,7 +49,7 @@ SonarQube container:
 ├── index.html        # Sample application file
 ├── Dockerfile        # Docker image definition
 ├── Jenkinsfile       # Jenkins CI pipeline
-└── README.md         # Documentation
+└── README.md         # Project documentation
 
 # CI Pipeline Workflow
 GitHub
